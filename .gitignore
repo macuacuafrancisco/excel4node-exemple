@@ -1,0 +1,9 @@
+.env
+.env.test
+.env.production
+node_modules/
+node_modules
+.DS_Store
+
+!uploads/images/.gitkeep 
+uploads/images/*
